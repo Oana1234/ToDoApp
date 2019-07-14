@@ -1,6 +1,5 @@
 package com.example.todoapp.di.module
 
-import android.app.Application
 import android.content.Context
 import com.example.todoapp.annotation.ApplicationContext
 import com.example.todoapp.app.ToDoApplication
